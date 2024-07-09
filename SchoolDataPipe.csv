@@ -1,0 +1,106 @@
+District_ID|Rating|Name|Students
+unique numerical identifier|District quality rating based on parent survey, teacher survey, test results, and student achievement|School District Name|Number of students served by the district in 2023
+1|6|Green Valley |74041
+2|6|Silver Creek |77825
+3|7|Pine Ridge |41371
+4|7|Riverbend |30770
+5|8|Highland Park |55451
+6|8|Maplewood |70171
+7|3|Oak Hill |56120
+8|4|Pleasant View |37614
+9|5|Sunnydale |37744
+10|6| Cedar Grove |6757
+11|2| Blue Ridge |25405
+12|2| Spring Valley |12017
+13|3| Northwood |59516
+14|4| Westlake |72841
+15|3| Eastview |40685
+16|3| Southside |9828
+17|4| Meadowbrook |3953
+18|5| Brookfield |70544
+19|6| Lakewood |20081
+20|6| Redwood |12343
+21|5| Shady Lane |7548
+22|6| Crystal Springs |50050
+23|7| Horizon |72156
+24|8| Eagle Mountain |20406
+25|5| Pinecrest |28389
+26|5| Valley View |42724
+27|6| Forest Glen |38190
+28|6| Sunset |76256
+29|7| Willow Creek |19444
+30|7| Summit |3883
+31|8| Ridgefield |64549
+32|8| Heritage |50377
+33|6| Bayside |46226
+34|7| Sunrise |13733
+35|8| Harmony |43352
+36|8| Evergreen |14233
+37|9| Aspen Hill |61861
+38|4| Parkside |39873
+39|5| Ridgewood |37386
+40|6| Mountain View |9665
+41|4| Timberline |4507
+42|5| Clearwater |53458
+43|6| Woodland |60187
+44|7| Lakeshore |39020
+45|8| Prairie View |69440
+46|6| Birchwood |18902
+47|7| Rolling Hills |16482
+48|6| Pine Valley |61551
+49|1| Coastal |65563
+50|2| Whispering Pines |25703
+51|3| Orchard Park |17795
+52|4| Cedar Springs |43905
+53|5| Hidden Valley |38556
+54|4| Glacier |9921
+55|2| Northstar |34605
+56|3| Seaside |40412
+57|4| Hillcrest |12114
+58|5| Grandview |63334
+59|6| Maple Ridge |34500
+60|7| Canyon |77515
+61|4| Meadowlark |44479
+62|6| Pioneer |55685
+63|7| Horizon View |51223
+64|8| Meadowview |51415
+65|9| River Valley |31082
+66|10| Skyline |61536
+67|2| Westbrook |69740
+68|5| Crestwood |77732
+69|6| Pine Hills |28715
+70|7| Vista |68529
+71|8| Windy Hill |12451
+72|9| Evergreen Valley |7847
+73|6| Mountain Ridge |4240
+74|7| Bayshore |70023
+75|8| Oakwood |28717
+76|3| Whispering Oaks |6584
+77|4| Clearview |71747
+78|5| Sunridge |6952
+79|6| Woodland Park |52399
+80|3| Trailblazer |35237
+81|4| Redwood Valley |11057
+82|5| Harborview |55100
+83|6| Horizon Hills |37644
+84|7| Golden Valley |74459
+85|6| Maple Grove |33638
+86|7| Cedar Valley |28871
+87|8| White Oak |36245
+88|7| Rolling Meadows |22357
+89|8| Highland Grove |35823
+90|9| Blue Mountain |50160
+91|10| Meadow Hills |16039
+92|8| Riverfront |70970
+93|9| Golden Hills |35210
+94|10| Creekside |69495
+95|3| Clear Lake |63040
+96|4| Timber Ridge |10844
+97|5| High Plains |23547
+98|6| Willow Springs |69627
+99|7| Riverbend Valley |35819
+100|8|Northfield |67651
+101|9|Santa Maria|53341
+102|6|Marshfield|31896
+103|7|Olympus|45138
+104|8|Shoshone|27409
